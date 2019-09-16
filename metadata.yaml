@@ -1,0 +1,33 @@
+_repo: From-Newton-to-Einstein-Changing-Conceptions-of-the-Universe_60271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrow, Benjamin
+    alias: Horowitz, Benjamin
+    birthdate: 1888
+    deathdate: 1970
+    gutenberg_agent_id: '50876'
+    url: http://www.gutenberg.org/2009/agents/50876
+description: ''
+edition_note: 2nd edition, revised and enlarged. With articles by Prof. Einstein,
+  Prof. J.S. Ames ... Sir Frank Dyson ... Prof. A.S. Eddington ... and Sir J.J. Thomson
+  ...
+gutenberg_issued: '2019-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60271'
+  lccn: '21000322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Einstein, Albert, 1879-1955'
+- !lcsh 'Gravitation'
+- !lcsh 'Relativity (Physics)'
+- !lcsh 'Ether (Space)'
+- !lcc 'QC'
+- !lcsh 'Newton, Isaac, Sir, 1642-1727'
+- GITenberg
+title: 'From Newton to Einstein: Changing Conceptions of the Universe'
+url: http://www.gutenberg.org/ebooks/60271
