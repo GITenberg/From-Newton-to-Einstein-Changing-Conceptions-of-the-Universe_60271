@@ -1,5 +1,8 @@
 _repo: From-Newton-to-Einstein-Changing-Conceptions-of-the-Universe_60271
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60271-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Harrow, Benjamin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50876'
     url: http://www.gutenberg.org/2009/agents/50876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60271#From-Newton-to-Einstein-Changing-Conceptions-of-the-Universe
 edition_note: 2nd edition, revised and enlarged. With articles by Prof. Einstein,
   Prof. J.S. Ames ... Sir Frank Dyson ... Prof. A.S. Eddington ... and Sir J.J. Thomson
   ...
